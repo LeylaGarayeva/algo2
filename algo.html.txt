@@ -1,0 +1,21 @@
+
+<!-- 198 necenci elementdi-->
+
+
+<script>
+    var a = [3,9,33,103,198,200,726,764,984];
+    var i=0;
+     while(i<=a.length){
+
+         if(a[i]==198){
+             document.write(i)
+         }
+         i++;
+     }
+
+    // document.write(a[4]);
+
+
+
+
+</script>
